@@ -5,6 +5,8 @@
  */
 package ohtu.verkkokauppa;
 
+import org.springframework.stereotype.Component;
+
 /**
  *
  * @author hceetu
